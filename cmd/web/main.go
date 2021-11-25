@@ -5,6 +5,7 @@ import (
 	"github.com/Aleksluciano/bookings/pkg/config"
 	"github.com/Aleksluciano/bookings/pkg/handlers"
 	"github.com/Aleksluciano/bookings/pkg/render"
+	"github.com/alexedwards/scs/v2"
 	"log"
 	"net/http"
 	"time"
